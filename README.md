@@ -1,9 +1,15 @@
 # Trophy APS
 
+**Released on behalf of simon_145.** Initial inspiration and implementation came from part of ATLAS's APS source code, and a general framework has since been developed that can be applied to other APS systems such as Tekken, Arena, GL6, etc.
+
 Trophy hard-kill active protection system for the M1 and M1IP Abrams in
 **Gunner, HEAT, PC!**
 
 Radar-tracked, ellipsoidal detection volume, two launchers with four rounds each.
+
+**One-click installation available via [Mod Manager](https://github.com/RoyZ-iwnl/GHPC-Mod-Manager/releases).**  
+Manager community: https://discord.gg/FTKVyHDzRj  
+Mod feedback: https://discord.com/channels/1563146327104295033/1564580670431428699
 
 ## Install
 
